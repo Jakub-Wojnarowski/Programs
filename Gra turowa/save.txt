@@ -1,0 +1,44 @@
+Name :
+Gracz
+Level :
+20
+Base hp :
+1000
+Base stamina :
+50
+Base mana :
+40
+Base damage :
+400
+Base speed :
+30
+Base armor :
+400
+Hp regen :
+0
+Stamina regen :
+5
+Mana regen :
+0
+Ilosc umek :
+3
+Umki :
+Zwykly atak
+Silny atak
+Leczenie
+Ekwipunek :
+brak
+brak
+brak
+brak
+brak
+brak
+brak
+brak
+brak
+brak
+Plecak :
+Futro wilka
+Futro wilka
+Futro wilka
+end
